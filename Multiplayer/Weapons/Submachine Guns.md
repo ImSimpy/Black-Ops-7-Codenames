@@ -6,22 +6,23 @@
 
 
 
-# 
+# Dravec 45
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | | 
+<br> Default | sm_zebra | 
 | | | | | 
 
 
 
 
-# 
+# Graz 45k 
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | | 
+<br> Default | sm_orca | 
 | | | | | 
+
 
 
 
