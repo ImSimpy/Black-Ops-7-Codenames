@@ -11,7 +11,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | hawk | 
+<br> Default | ar_hawk | 
 | | | | | 
 
 
@@ -19,7 +19,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | eagle | 
+<br> Default | ar_eagle | 
 | | | | | 
 
 
@@ -27,8 +27,9 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | condor | 
+<br> Default | ar_condor | 
 | | | | | 
+
 
 
 
