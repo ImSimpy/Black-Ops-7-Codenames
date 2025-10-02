@@ -1,8 +1,3 @@
-> [!IMPORTANT]
-> This Repository will likely lose support and be moved to: https://bo3.coddb.net/
-
-
-
 ![BlackOps7_Logo_White_BO7](https://github.com/user-attachments/assets/10d090e9-8e04-42ef-a251-969193a5fc7e)
 
 
