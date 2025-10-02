@@ -7,20 +7,14 @@
 
 
 
-# 
+# Flatline Mk.II
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | | 
+<br> Default | sat_me_shockbaton | 
 | | | | | 
 
 
 
 
-# 
-| Icon | Name |
-| :--: | :--: | 
-| | | | | 
-<br> Default | | 
-| | | | | 
 
