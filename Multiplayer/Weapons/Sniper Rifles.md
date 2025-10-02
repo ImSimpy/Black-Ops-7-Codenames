@@ -7,20 +7,21 @@
 
 
 
-# 
+# XR-3 Ion
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | | 
+<br> Default | sn_drake | 
 | | | | | 
 
 
 
 
-# 
+# VS Recon
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | | 
+<br> Default | sn_baltic | 
 | | | | | 
+
 
