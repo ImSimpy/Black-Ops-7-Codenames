@@ -11,7 +11,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | sn_drake | 
+<br> Default | sat_sn_drake | 
 | | | | | 
 
 
@@ -21,7 +21,8 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | sn_baltic | 
+<br> Default | sat_sn_baltic | 
 | | | | | 
+
 
 
