@@ -11,18 +11,12 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | dm_scotia | 
+<br> Default | sat_dm_scotia | 
 | | | | | 
 
 
 
 
-# 
-| Icon | Name |
-| :--: | :--: | 
-| | | | | 
-<br> Default | | 
-| | | | | 
 
 
 
