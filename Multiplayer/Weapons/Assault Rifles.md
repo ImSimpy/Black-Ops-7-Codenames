@@ -19,7 +19,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | ar_eagle | 
+<br> Default | sat_ar_eagle | 
 | | | | | 
 
 
@@ -27,8 +27,9 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | ar_condor | 
+<br> Default | sat_ar_condor | 
 | | | | | 
+
 
 
 
