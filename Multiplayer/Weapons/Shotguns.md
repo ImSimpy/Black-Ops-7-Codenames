@@ -11,7 +11,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | sh_husky | 
+<br> Default | sat_sh_husky | 
 | | | | | 
 
 
@@ -21,8 +21,9 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | sh_corso | 
+<br> Default | sat_sh_corso | 
 | | | | | 
+
 
 
 
