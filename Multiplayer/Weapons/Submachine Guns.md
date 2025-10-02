@@ -10,7 +10,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | sm_zebra | 
+<br> Default | sat_sm_zebra | 
 | | | | | 
 
 
@@ -20,8 +20,9 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | sm_orca | 
+<br> Default | sat_sm_orca | 
 | | | | | 
+
 
 
 
