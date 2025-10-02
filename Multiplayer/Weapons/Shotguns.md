@@ -7,22 +7,23 @@
 
 
 
-# 
+# Echo 12
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | | 
+<br> Default | sh_husky | 
 | | | | | 
 
 
 
 
-# 
+# M10 Breacher
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | | 
+<br> Default | sh_corso | 
 | | | | | 
+
 
 
 
