@@ -11,7 +11,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | pi_atlas | 
+<br> Default | sat_pi_atlas | 
 | | | | | 
 
 
@@ -21,8 +21,9 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | pi_timir | 
+<br> Default | sat_pi_timir | 
 | | | | | 
+
 
 
 
