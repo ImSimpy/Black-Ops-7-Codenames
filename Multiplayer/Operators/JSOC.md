@@ -27,12 +27,12 @@
 
 
 
-# 
+# Leilani Tupuola
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-|  <br> | |  |  |
+![5050_Default_Skin_BO7](https://github.com/user-attachments/assets/8e7dba35-8b69-4bd2-94a8-4369d4bbec53) <br> 50/50 | body_c_sat_nzl_pl_rose_proto | head_c_sat_nzl_pl_rose_proto | vm_c_sat_nzl_pl_rose_proto |
 | | | | | 
 
 
