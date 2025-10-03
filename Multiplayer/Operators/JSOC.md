@@ -49,20 +49,20 @@
 | | | | | 
 
 
-# 
+# Dempsey
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-|  <br> | |  |  |
+  <br> Drained | TBA | TBA | TBA |
 | | | | | 
 
-# 
+# Takeo Masaki
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-|  <br> | |  |  |
+  <br> Drained | TBA | TBA | TBA |
 | | | | | 
 
 
