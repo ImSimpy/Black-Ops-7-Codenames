@@ -39,7 +39,7 @@
 | | | | | 
 |  <br> Green Fury | TBA | TBA | TBA |
 | | | | | 
-body_c_sat_mex_pl_indigo_proto <br> Jurado | body_c_sat_mex_pl_indigo_proto | head_c_sat_mex_pl_indigo_proto | vm_c_sat_mex_pl_indigo_proto |
+![Jurado_Default_Skin_BO7](https://github.com/user-attachments/assets/16a01a48-f4c8-429f-83b4-f9dab23c82bb) <br> Jurado | body_c_sat_mex_pl_indigo_proto | head_c_sat_mex_pl_indigo_proto | vm_c_sat_mex_pl_indigo_proto |
 | | | | | 
 
 # Priya Zaveri
