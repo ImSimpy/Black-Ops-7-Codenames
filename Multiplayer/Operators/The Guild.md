@@ -10,12 +10,12 @@
 > 𝐅𝐨𝐫 𝐭𝐡𝐞 𝐨𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬, 𝐭𝐡𝐞𝐢𝐫 𝐦𝐨𝐝𝐞𝐥𝐬 𝐚𝐫𝐞 𝐬𝐞𝐩𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 `𝐡𝐞𝐚𝐝` 𝐚𝐧𝐝 `𝐛𝐨𝐝𝐲`
 >
 
-# 
+# Emma Kagan
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-|  <br> | |  |  |
+![Kagan_Default_Skin_BO7](https://github.com/user-attachments/assets/d80a33a2-b08d-418f-a16b-4a3ded35cc51) <br> Kagan | body_c_sat_mex_pl_green_proto | head_c_sat_mex_pl_green_proto | vm_c_sat_mex_pl_green_proto |
 | | | | | 
 
 # 
