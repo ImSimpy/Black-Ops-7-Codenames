@@ -34,15 +34,18 @@
 | | | | | 
 ![5050_Default_Skin_BO7](https://github.com/user-attachments/assets/8e7dba35-8b69-4bd2-94a8-4369d4bbec53) <br> 50/50 | body_c_sat_nzl_pl_rose_proto | head_c_sat_nzl_pl_rose_proto | vm_c_sat_nzl_pl_rose_proto |
 | | | | | 
+ <br> TBA | TBA | TBA | TBA |
+| | | | | 
 
 
-
-# 
+# Wei Lin
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-|  <br> | |  |  |
+![WeiLin_BetaMaverick_Skin_BO7](https://github.com/user-attachments/assets/4987f4d4-3947-4643-9792-5f7b60749ab1) <br> Beta Maverick | body_c_sat_chn_pl_gold_tactical | head_c_sat_chn_pl_gold_tactical | vm_c_sat_chn_pl_gold_tactical |
+| | | | | 
+![WeiLin_Default_Skin_BO7](https://github.com/user-attachments/assets/de92ed60-6d20-48e5-9cae-8f2c079e6139) <br> Wei Lin | body_c_sat_chn_pl_gold_proto | head_c_sat_chn_pl_gold_proto | vm_c_sat_chn_pl_gold_proto |
 | | | | | 
 
 
