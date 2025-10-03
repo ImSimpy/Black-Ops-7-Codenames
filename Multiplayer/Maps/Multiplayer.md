@@ -7,6 +7,14 @@
 > Use `Load` to load the map.
 >
 
+# Firing Range
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+<br> Firing Range | mp_sat_the_forge_traincourse | 
+| | | | | 
+
+
 
 # Blackheart
 | Icon | Name |
@@ -34,15 +42,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Toshin | | 
-| | | | | 
-
-
-# Firing Range
-| Icon | Name |
-| :--: | :--: | 
-| | | | | 
-<br> Firing Range | | 
+![Toshin_MenuScreen_BO7](https://github.com/user-attachments/assets/7859f7aa-f8f1-4a28-9c3b-ea5bf36c845c) <br> Toshin | mp_sat_roji | 
 | | | | | 
 
 
@@ -50,7 +50,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Imprint | | 
+![Imprint_MenuScreen_BO7](https://github.com/user-attachments/assets/b949c57c-b05f-40ff-b851-b0435615115d) <br> Imprint | mp_sat_whiteout | 
 | | | | | 
 
 
@@ -58,7 +58,7 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Exposure | | 
+![Exposure_MenuScreen_BO7](https://github.com/user-attachments/assets/d9d5c90c-e53a-4a4a-8d6d-d21e87527bab) <br> Exposure | mp_sat_volt | 
 | | | | | 
 
 
