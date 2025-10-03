@@ -47,24 +47,24 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-| ![Zaveri_Default_Skin_BO7](https://github.com/user-attachments/assets/b4acebde-e308-44bb-ae87-a4eaf2b6e3fd) <br> Zaveri | body_c_sat_ind_pl_violet_proto | head_c_sat_ind_pl_violet_proto | vm_c_sat_ind_pl_violet_proto |
+![Zaveri_Default_Skin_BO7](https://github.com/user-attachments/assets/b4acebde-e308-44bb-ae87-a4eaf2b6e3fd) <br> Zaveri | body_c_sat_ind_pl_violet_proto | head_c_sat_ind_pl_violet_proto | vm_c_sat_ind_pl_violet_proto |
 | | | | | 
 
 
-# 
+# Nikolai Belinski
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-|  <br> | |  |  |
+ <br> Drained | TBA | TBA | TBA |
 | | | | | 
 
-# 
+# Edward Richtofen
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-|  <br> | |  |  |
+ <br> Drained | TBA | TBA | TBA |
 | | | | | 
 
 
