@@ -20,17 +20,17 @@
 | | | | | 
 <br> LTI Mini | optic_microreflex_01 | 
 | | | | | 
-<br> VA5 MicroFlex | optic_microreflex_02_tall | 
+<br> VA5 MicroFlex | optic_microreflex_02 | 
 | | | | | 
-<br> Kepler - Pro Red Dot | sat_vm_optic_reflex_02 | 
+<br> Kepler - Pro Red Dot | optic_reflex_02 | 
 | | | | | 
-<br> K&S Slim Reflex | sat_vm_optic_reflex_05 | 
+<br> K&S Slim Reflex | optic_reflex_05 | 
 | | | | | 
-<br>  |  | 
+<br> Bowen X-25 IR | optic_thermal_01 | 
 | | | | | 
-<br>  |  | 
+<br> Kepler Ultra 4x | optic_holo_02 | 
 | | | | | 
-<br>  |  | 
+<br> Millimeter Scanner | optic_fourx_01 | 
 | | | | | 
 <br>  |  | 
 | | | | | 
@@ -175,6 +175,7 @@
 | | | | | 
 <br>  |  | 
 | | | | | 
+
 
 
 
