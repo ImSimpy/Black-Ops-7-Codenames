@@ -48,29 +48,29 @@
 | Icon | Name | Name  |
 | :--: | :--: | :--: |
 | | | | | 
-<br> Vertical Foregrip | grip_vert_02_east | N/A |
+<br>  |  |  |
 | | | | | 
-<br> Lightweight Foregrip | grip_vert_02_west | grip_vert_01_east |
+<br>  |  |  |
 | | | | | 
-<br> Precision Foregrip | grip_vert_03_west | grip_vert_03_east
+<br>  |  | 
 | | | | | 
-<br> Marksman Foregrip | grip_angled_01_west | ar_aking74_barrel |
+<br>  |  |  |
 | | | | | 
-<br> Ranger Foregrip | grip_angled_02_west | grip_angled_02_east
+<br>  |  | 
 | | | | | 
-<br> Launcher (M203/GP-25)  | ub_gl_west | ub_gl_east |
+<br>   |  |  |
 | | | | | 
-<br> Launcher (Drill Charge) | ub_gl_west_drillcharge | N/A |
+<br> |  |  |
 | | | | | 
-<br> Crossbar | grip_crossbar | N/A |
+<br>  |  | |
 | | | | | 
-<br> Crossbow | ub_crossbow01_west | ub_crossbow01_east |
+<br>  |  |  |
 | | | | | 
-<br> Lightweight Bipod | ub_sway | N/A |
+<br>  |  | |
 | | | | | 
-<br>  Marksman Bipod | ub_focus | N/A
+<br>   |  | 
 | | | | | 
-<br>  G-Grip | grip_vert_laser_east | grip_vert_laser_west |
+<br>  |  |  |
 | | | | | 
 
 
@@ -151,6 +151,7 @@
 | | | | | 
 <br>  |  | 
 | | | | | 
+
 
 
 
