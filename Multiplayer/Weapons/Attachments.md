@@ -32,7 +32,11 @@
 | | | | | 
 <br> Millimeter Scanner | optic_fourx_01 | 
 | | | | | 
-<br>  |  | 
+<br> Lethal Tools ELD |  | 
+| | | | | 
+<br> Greaves Red Dot |  | 
+| | | | | 
+<br> EAM Dyad XL |  | 
 | | | | | 
 <br>  |  | 
 | | | | | 
@@ -42,9 +46,6 @@
 | | | | | 
 <br>  |  | 
 | | | | | 
-<br>  |  | 
-| | | | | 
-
 
 
 # Muzzle
@@ -175,6 +176,7 @@
 | | | | | 
 <br>  |  | 
 | | | | | 
+
 
 
 
