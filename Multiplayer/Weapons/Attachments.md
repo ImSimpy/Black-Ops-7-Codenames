@@ -20,9 +20,9 @@
 | | | | | 
 <br> LTI Mini | optic_microreflex_01 | 
 | | | | | 
-<br>  |  | 
+<br> VA5 MicroFlex | optic_microreflex_02_tall | 
 | | | | | 
-<br>  |  | 
+<br> Kepler - Pro Red Dot | sat_vm_optic_reflex_02 | 
 | | | | | 
 <br>  |  | 
 | | | | | 
@@ -175,6 +175,7 @@
 | | | | | 
 <br>  |  | 
 | | | | | 
+
 
 
 
