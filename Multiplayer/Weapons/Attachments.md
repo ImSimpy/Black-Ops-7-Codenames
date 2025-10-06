@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > If your doing a barrel or anything you have to look at the codename of the weapon 
 >
-> like `ar_coslo723_barrel_velocity`
+> like `ar_eagle_comb_rcvr`
 >
 > If you want to load one attachment then just load the name of it
 >
@@ -151,6 +151,7 @@
 | | | | | 
 <br>  |  | 
 | | | | | 
+
 
 
 
