@@ -7,7 +7,7 @@
 
 
 
-# Echo 000
+# Echo 12
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
@@ -17,12 +17,6 @@
 
 
 
-# M10 Breacher
-| Icon | Name |
-| :--: | :--: | 
-| | | | | 
-<br> Default | sat_sh_corso | 
-| | | | | 
 
 
 
