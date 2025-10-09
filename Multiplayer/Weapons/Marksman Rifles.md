@@ -11,8 +11,9 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | sat_dm_scotia | 
+<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/bc558ecd-a7c3-4312-8d56-83ba181427a4" /> <br> Default | sat_dm_scotia | 
 | | | | | 
+
 
 
 
