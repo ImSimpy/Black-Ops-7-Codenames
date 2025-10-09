@@ -13,6 +13,8 @@
 | | | | | 
 <br> Default | ar_hawk | 
 | | | | | 
+<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/3f8c29e3-9bb7-49a0-b5a8-2a22f98af78a" /> <br> Beta Legend | ar_hawk | 
+| | | | | 
 
 
 # MXR-17
@@ -29,6 +31,7 @@
 | | | | | 
 <br> Default | sat_ar_condor | 
 | | | | | 
+
 
 
 
