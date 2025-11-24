@@ -7,42 +7,6 @@
 
 
 
-# 
-| Icon | Name |
-| :--: | :--: | 
-| | | | | 
-<br> Default | | 
-| | | | | 
-
-
-
-# 
-| Icon | Name |
-| :--: | :--: | 
-| | | | | 
-<br> Default | | 
-| | | | | 
-
-
-
-# 
-| Icon | Name |
-| :--: | :--: | 
-| | | | | 
-<br> Default | | 
-| | | | | 
-
-
-
-# 
-| Icon | Name |
-| :--: | :--: | 
-| | | | | 
-<br> Default | | 
-| | | | | 
-
-
-
 # Hand Cannon
 | Icon | Name |
 | :--: | :--: | 
@@ -61,12 +25,49 @@
 
 
 
+# War Machine
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+<br> Default | streak_t10_mini_glauncher | 
+| | | | | 
+
+
+
 # 
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
 <br> Default | | 
 | | | | | 
+
+
+
+# 
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+<br> Default | | 
+| | | | | 
+
+
+
+# 
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+<br> Default | | 
+| | | | | 
+
+
+
+# 
+| Icon | Name |
+| :--: | :--: | 
+| | | | | 
+<br> Default | | 
+| | | | | 
+
 
 
 
