@@ -63,10 +63,11 @@
 | | | | | 
 <img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/98793989-7db3-4468-a60c-7b97a72c0aa7" /> <br> Default | sat_ar_condor | 
 | | | | | 
-<br> Blank Certainty | sat_ar_condor_vault | 
+<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/2fcc2270-d827-47dc-9d80-9f20f379588b" /> <br> Blank Certainty | sat_ar_condor_vault | 
 | | | | | 
 <img width="150" height="90" alt="image" src="https://github.com/user-attachments/assets/0e0da5c5-f781-4bdc-8f5a-456048a254c3" /> <br> Hyper Green | sat_ar_condor_claws | 
 | | | | | 
+
 
 
 
