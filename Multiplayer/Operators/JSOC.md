@@ -9,8 +9,17 @@
 > 𝐅𝐨𝐫 𝐭𝐡𝐞 𝐨𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬, 𝐭𝐡𝐞𝐢𝐫 𝐦𝐨𝐝𝐞𝐥𝐬 𝐚𝐫𝐞 𝐬𝐞𝐩𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 `𝐡𝐞𝐚𝐝` 𝐚𝐧𝐝 `𝐛𝐨𝐝𝐲`
 >
 
+# Mike Harper
 
-# Chloe Lynch
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/107dbd00-f84f-42b5-a80f-ef49a1e25c7d" /> <br> | body_c_sat_usa_pl_black_proto | head_c_sat_usa_pl_black_proto | vm_c_sat_usa_pl_black_proto |
+| | | | | 
+
+
+
+# Chloe "Karma"  Lynch
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
