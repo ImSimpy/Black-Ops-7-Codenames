@@ -67,6 +67,24 @@
 | | | | | 
 
 
+
+# Leilani Tupuola
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+  <br> Collateral | body_c_sat_nzl_pl_rose_convert | head_c_sat_nzl_pl_rose_convert | vm_c_sat_nzl_pl_rose_convert |
+| | | | | 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9425894e-3104-4022-8e36-c4838408ac1f" /> <br> Ironwill | body_c_sat_nzl_pl_rose_code | head_c_sat_nzl_pl_rose_code | vm_c_sat_nzl_pl_rose_code |
+| | | | | 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/34846fed-e738-49ef-9e31-333abb9b475e" /> <br> No Fear | body_c_sat_nzl_pl_rose_wc | head_c_sat_nzl_pl_rose_wc | head_c_sat_nzl_pl_rose_wc |
+| | | | | 
+![5050_Default_Skin_BO7](https://github.com/user-attachments/assets/8e7dba35-8b69-4bd2-94a8-4369d4bbec53) <br> 50/50 | body_c_sat_nzl_pl_rose_proto | head_c_sat_nzl_pl_rose_proto | vm_c_sat_nzl_pl_rose_proto |
+| | | | | 
+
+
+
+
 # Axel Vermaak
 
 | Icon | Body | Head | Arms
@@ -75,17 +93,6 @@
 ![Vermaak_Default_Skin_BO7](https://github.com/user-attachments/assets/d060ff4a-4c5f-46e0-9f4c-c1f4a3befbda) <br> Vermaak | body_c_sat_zaf_pl_peach_proto | head_c_sat_zaf_pl_peach_proto | vm_c_sat_zaf_pl_peach_proto |
 | | | | | 
 
-
-
-# Leilani Tupuola
-
-| Icon | Body | Head | Arms
-| :--: | :--: | :--: | :--:
-| | | | | 
-![5050_Default_Skin_BO7](https://github.com/user-attachments/assets/8e7dba35-8b69-4bd2-94a8-4369d4bbec53) <br> 50/50 | body_c_sat_nzl_pl_rose_proto | head_c_sat_nzl_pl_rose_proto | vm_c_sat_nzl_pl_rose_proto |
-| | | | | 
- <br> TBA | TBA | TBA | TBA |
-| | | | | 
 
 
 # Wei Lin
@@ -99,6 +106,7 @@
 | | | | | 
 
 
+
 # Dempsey
 
 | Icon | Body | Head | Arms
@@ -107,6 +115,8 @@
   <br> Drained | TBA | TBA | TBA |
 | | | | | 
 
+
+
 # Takeo Masaki
 
 | Icon | Body | Head | Arms
@@ -114,6 +124,7 @@
 | | | | | 
   <br> Drained | TBA | TBA | TBA |
 | | | | | 
+
 
 
 # 
