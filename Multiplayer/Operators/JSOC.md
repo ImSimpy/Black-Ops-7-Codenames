@@ -50,18 +50,20 @@
 | | | | | 
 
 
-# 
+# Eric Samuels
 
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-  <br> |  |  | |
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/88a21a31-e887-4e55-a01e-41a156e0a9f3" /> <br> Firm Mind | body_c_sat_usa_pl_maroon_proto | head_c_sat_usa_pl_maroon_proto | vm_c_sat_usa_pl_maroon_ |
 | | | | | 
-  <br> |  |  | |
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a89ac8ae-7880-4f8b-9eeb-ab76df6cfc8d" /> <br> New Orders | body_c_sat_usa_pl_maroon_redacted | head_c_sat_usa_pl_maroon_redacted | vm_c_sat_usa_pl_maroon_redacted |
 | | | | | 
-  <br> |  |  | |
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/11b22c4c-fb7c-48c4-a9bf-41a5b73cdcfa" /> <br> No Fear | body_c_sat_usa_pl_maroon_wc | head_c_sat_usa_pl_maroon_wc | vm_c_sat_usa_pl_maroon_ |
 | | | | | 
-  <br> |  |  | |
+  <br> Wayward | body_c_sat_usa_pl_maroon_shadow | head_c_sat_usa_pl_maroon_shadow | vm_c_sat_usa_pl_maroon_shadow |
+| | | | | 
+  <br> Wayward BlackCell | body_c_sat_usa_pl_maroon_shadow_bc | head_c_sat_usa_pl_maroon_bc | vm_c_sat_usa_pl_maroon_bc |
 | | | | | 
 
 
