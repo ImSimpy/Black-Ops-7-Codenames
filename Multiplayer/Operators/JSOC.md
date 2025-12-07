@@ -104,16 +104,6 @@
 
 
 
-# Axel Vermaak
-
-| Icon | Body | Head | Arms
-| :--: | :--: | :--: | :--:
-| | | | | 
-![Vermaak_Default_Skin_BO7](https://github.com/user-attachments/assets/d060ff4a-4c5f-46e0-9f4c-c1f4a3befbda) <br> Vermaak | body_c_sat_zaf_pl_peach_proto | head_c_sat_zaf_pl_peach_proto | vm_c_sat_zaf_pl_peach_proto |
-| | | | | 
-
-
-
 # Wei Lin
 
 | Icon | Body | Head | Arms
@@ -122,6 +112,16 @@
 ![WeiLin_BetaMaverick_Skin_BO7](https://github.com/user-attachments/assets/4987f4d4-3947-4643-9792-5f7b60749ab1) <br> Beta Maverick | body_c_sat_chn_pl_gold_tactical | head_c_sat_chn_pl_gold_tactical | vm_c_sat_chn_pl_gold_tactical |
 | | | | | 
 ![WeiLin_Default_Skin_BO7](https://github.com/user-attachments/assets/de92ed60-6d20-48e5-9cae-8f2c079e6139) <br> Wei Lin | body_c_sat_chn_pl_gold_proto | head_c_sat_chn_pl_gold_proto | vm_c_sat_chn_pl_gold_proto |
+| | | | | 
+
+
+
+# Axel Vermaak
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+![Vermaak_Default_Skin_BO7](https://github.com/user-attachments/assets/d060ff4a-4c5f-46e0-9f4c-c1f4a3befbda) <br> Vermaak | body_c_sat_zaf_pl_peach_proto | head_c_sat_zaf_pl_peach_proto | vm_c_sat_zaf_pl_peach_proto |
 | | | | | 
 
 
