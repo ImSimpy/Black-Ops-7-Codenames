@@ -89,17 +89,17 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-  <br> |  |  | |
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d4e9fd51-59a4-4c6f-8df5-441ebba23879" /> <br> Air Thrive | body_c_sat_usa_pl_orange_proto | head_c_sat_usa_pl_orange_proto | vm_c_sat_usa_pl_orange_proto |
 | | | | | 
-  <br> |  |  | |
+  <br> Flight Commander | body_c_sat_usa_pl_orange_dronecharmer | head_c_sat_usa_pl_orange_dronecharmer | vm_c_sat_usa_pl_orange_dronecharmer |
 | | | | | 
-  <br> |  |  | |
+ <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2ed25cb8-d266-4198-8868-6dca84bf1096" /> <br> No Fear | body_c_sat_usa_pl_orange_wc | head_c_sat_usa_pl_orange_wc | vm_c_sat_usa_pl_orange_wc |
 | | | | | 
-  <br> |  |  | |
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/40891edc-f757-4925-923f-d369eaf65a3d" /> <br> Raver | body_c_sat_usa_pl_orange_emea | head_c_sat_usa_pl_orange_emea | vm_c_sat_usa_pl_orange_emea |
 | | | | | 
-  <br> |  |  | |
+  <br> Reboot | body_c_sat_usa_pl_orange_countermeasure | head_c_sat_usa_pl_orange_countermeasure | vm_c_sat_usa_pl_orange_countermeasure |
 | | | | | 
-  <br> |  |  | |
+  <br> Reboot BlackCell | body_c_sat_usa_pl_orange_countermeasure_bc | head_c_sat_usa_pl_orange_countermeasure_bc | vm_c_sat_usa_pl_orange_bc |
 | | | | | 
 
 
