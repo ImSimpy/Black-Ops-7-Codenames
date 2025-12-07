@@ -14,7 +14,7 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/107dbd00-f84f-42b5-a80f-ef49a1e25c7d" /> <br> | body_c_sat_usa_pl_black_proto | head_c_sat_usa_pl_black_proto | vm_c_sat_usa_pl_black_proto |
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/107dbd00-f84f-42b5-a80f-ef49a1e25c7d" /> <br> Warranty Breaker | body_c_sat_usa_pl_black_proto | head_c_sat_usa_pl_black_proto | vm_c_sat_usa_pl_black_proto |
 | | | | | 
 
 
