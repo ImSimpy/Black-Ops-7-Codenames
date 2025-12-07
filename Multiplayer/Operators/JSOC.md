@@ -34,8 +34,36 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9c8f2a9a-cf82-4690-9190-a66bff537c5b" /> <br> Echo Veil | body_c_sat_usa_pl_red_psyop | head_c_sat_usa_pl_red_psyop | vm_c_sat_usa_pl_red_psyop |
+| | | | | 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6950f5f8-0c26-4750-8e59-730ac7637349" /> <br> Grounded | body_c_sat_usa_pl_red_collide | head_c_sat_usa_pl_red_collide | vm_c_sat_usa_pl_red_collide |
+| | | | | 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/62fa5635-4151-4fe9-8664-b9c86a60361b" /> <br> Narcotized | body_c_sat_usa_pl_red_tv | head_c_sat_usa_pl_red_tv | vm_c_sat_usa_pl_red_tv |
+| | | | | 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7db2c4e7-05f0-41ac-81ad-7172e67b29e3" /> <br> No Fear | body_c_sat_usa_pl_red_wc | head_c_sat_usa_pl_red_wc | vm_c_sat_usa_pl_red_wc |
+| | | | | 
+<br> Old Wounds | TBA | TBA | TBA  |
+| | | | | 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0aef7168-5fb7-480c-8139-afb4471f3604" /> <br> Orbital Strike | body_c_sat_usa_pl_red_halo | head_c_sat_usa_pl_red_halo | vm_c_sat_usa_pl_red_halo |
+| | | | | 
  ![Mason_Default_Skin_BO7](https://github.com/user-attachments/assets/c2878671-d099-4b59-8016-54d4686878c0)<br> Base | body_c_sat_usa_pl_red_proto | head_c_sat_usa_pl_red_proto | vm_c_sat_usa_pl_red_proto |
 | | | | | 
+
+
+# 
+
+| Icon | Body | Head | Arms
+| :--: | :--: | :--: | :--:
+| | | | | 
+  <br> |  |  | |
+| | | | | 
+  <br> |  |  | |
+| | | | | 
+  <br> |  |  | |
+| | | | | 
+  <br> |  |  | |
+| | | | | 
+
 
 # Axel Vermaak
 
