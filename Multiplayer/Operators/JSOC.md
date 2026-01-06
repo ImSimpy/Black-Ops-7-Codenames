@@ -61,9 +61,9 @@
 | | | | | 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/11b22c4c-fb7c-48c4-a9bf-41a5b73cdcfa" /> <br> No Fear | body_c_sat_usa_pl_maroon_wc | head_c_sat_usa_pl_maroon_wc | vm_c_sat_usa_pl_maroon_ |
 | | | | | 
-  <br> Wayward | body_c_sat_usa_pl_maroon_shadow | head_c_sat_usa_pl_maroon_shadow | vm_c_sat_usa_pl_maroon_shadow |
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a2322716-dafb-48bc-a69b-ffebc64946e5" /> <br> Wayward | body_c_sat_usa_pl_maroon_shadow | head_c_sat_usa_pl_maroon_shadow | vm_c_sat_usa_pl_maroon_shadow |
 | | | | | 
-  <br> Wayward BlackCell | body_c_sat_usa_pl_maroon_shadow_bc | head_c_sat_usa_pl_maroon_bc | vm_c_sat_usa_pl_maroon_bc |
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6837c41e-7a3f-4673-b7ba-570c346377a6" /> <br> Wayward BlackCell | body_c_sat_usa_pl_maroon_shadow_bc | head_c_sat_usa_pl_maroon_bc | vm_c_sat_usa_pl_maroon_bc |
 | | | | | 
 
 
