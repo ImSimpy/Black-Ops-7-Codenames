@@ -46,7 +46,9 @@
 | | | | | 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0aef7168-5fb7-480c-8139-afb4471f3604" /> <br> Orbital Strike | body_c_sat_usa_pl_red_halo | head_c_sat_usa_pl_red_halo | vm_c_sat_usa_pl_red_halo |
 | | | | | 
- ![Mason_Default_Skin_BO7](https://github.com/user-attachments/assets/c2878671-d099-4b59-8016-54d4686878c0)<br> Base | body_c_sat_usa_pl_red_proto | head_c_sat_usa_pl_red_proto | vm_c_sat_usa_pl_red_proto |
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/433fa884-0c36-4b3b-a0d7-57c5284c2742" /> <br> Sweatin' It | body_c_sat_usa_pl_red_red_sweater | head_c_sat_usa_pl_red_red_sweater | vm_c_sat_usa_pl_red_red_sweater |
+| | | | | 
+ ![Mason_Default_Skin_BO7](https://github.com/user-attachments/assets/c2878671-d099-4b59-8016-54d4686878c0) <br> Base | body_c_sat_usa_pl_red_proto | head_c_sat_usa_pl_red_proto | vm_c_sat_usa_pl_red_proto |
 | | | | | 
 
 
