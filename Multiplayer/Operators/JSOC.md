@@ -97,9 +97,9 @@
 | | | | | 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/40891edc-f757-4925-923f-d369eaf65a3d" /> <br> Raver | body_c_sat_usa_pl_orange_emea | head_c_sat_usa_pl_orange_emea | vm_c_sat_usa_pl_orange_emea |
 | | | | | 
-  <br> Reboot | body_c_sat_usa_pl_orange_countermeasure | head_c_sat_usa_pl_orange_countermeasure | vm_c_sat_usa_pl_orange_countermeasure |
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/731eb97b-08b4-46aa-b39f-33583bd2e277" /> <br> Reboot | body_c_sat_usa_pl_orange_countermeasure | head_c_sat_usa_pl_orange_countermeasure | vm_c_sat_usa_pl_orange_countermeasure |
 | | | | | 
-  <br> Reboot BlackCell | body_c_sat_usa_pl_orange_countermeasure_bc | head_c_sat_usa_pl_orange_countermeasure_bc | vm_c_sat_usa_pl_orange_bc |
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e8b42c4a-c58e-4b54-9da9-b6dc137cf3b3" /> <br> Reboot BlackCell | body_c_sat_usa_pl_orange_countermeasure_bc | head_c_sat_usa_pl_orange_countermeasure_bc | vm_c_sat_usa_pl_orange_bc |
 | | | | | 
 
 
