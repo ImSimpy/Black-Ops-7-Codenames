@@ -75,7 +75,7 @@
 | Icon | Body | Head | Arms
 | :--: | :--: | :--: | :--:
 | | | | | 
-  <br> Collateral | body_c_sat_nzl_pl_rose_convert | head_c_sat_nzl_pl_rose_convert | vm_c_sat_nzl_pl_rose_convert |
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c1dd94de-f752-40a9-a934-d9d567dce9b8" /> <br> Collateral | body_c_sat_nzl_pl_rose_convert | head_c_sat_nzl_pl_rose_convert | vm_c_sat_nzl_pl_rose_convert |
 | | | | | 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9425894e-3104-4022-8e36-c4838408ac1f" /> <br> Ironwill | body_c_sat_nzl_pl_rose_code | head_c_sat_nzl_pl_rose_code | vm_c_sat_nzl_pl_rose_code |
 | | | | | 
