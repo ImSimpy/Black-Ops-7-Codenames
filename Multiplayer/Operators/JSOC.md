@@ -115,6 +115,8 @@
 | | | | | 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bf64ffd5-1e31-411d-87c5-401a0bbb8c11" /> <br> Lifebringer | body_c_sat_chn_pl_gold_blood | head_c_sat_chn_pl_gold_blood | vm_c_sat_chn_pl_gold_blood |
 | | | | | 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/24bfc7ca-d53c-40af-bb51-ca8874cde1e7" /> <br> Clout | body_c_sat_chn_pl_gold_luxury | head_c_sat_chn_pl_gold_luxury  | vm_c_sat_chn_pl_gold_luxury |
+| | | | | 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7c863960-d02a-4a3f-8fb3-623751c8d761" /> <br> Martial Master | body_c_sat_chn_pl_gold_agile | head_c_sat_chn_pl_gold_agile  | vm_c_sat_chn_pl_gold_agile |
 | | | | | 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b72b72e2-0167-439d-9c3c-9d1c39ac2aac" /> <br> No Fear | body_c_sat_chn_pl_gold_wc | head_c_sat_chn_pl_gold_wc | vm_c_sat_chn_pl_gold_wc |
