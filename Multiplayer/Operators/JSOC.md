@@ -135,6 +135,15 @@
 | | | | | 
 ![Vermaak_Default_Skin_BO7](https://github.com/user-attachments/assets/d060ff4a-4c5f-46e0-9f4c-c1f4a3befbda) <br> Vermaak | body_c_sat_zaf_pl_peach_proto | head_c_sat_zaf_pl_peach_proto | vm_c_sat_zaf_pl_peach_proto |
 | | | | | 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cd56d796-aad7-4204-9e40-cad5b7473ef7" /> <br> Avian | body_c_sat_zaf_pl_peach_ | head_c_sat_zaf_pl_peach_ | vm_c_sat_zaf_pl_peach_ |
+| | | | | 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6cefa9ee-2852-4053-9e54-2bf5ca21bfdf" /> <br> No Fear | body_c_sat_zaf_pl_peach_wc | head_c_sat_zaf_pl_peach_wc | vm_c_sat_zaf_pl_peach_wc |
+| | | | | 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d977df54-dde6-4679-92f4-87f048e5c271" /> <br> The Unseen | body_c_sat_zaf_pl_peach_mud | head_c_sat_zaf_pl_peach_mud | vm_c_sat_zaf_pl_peach_mud |
+| | | | | 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9bccbcc7-a7ce-4f37-ab19-3b7b6b04f92c" /> <br> Arctic Recon | body_c_sat_zaf_pl_peach_polar | head_c_sat_zaf_pl_peach_polar | vm_c_sat_zaf_pl_peach_polar |
+| | | | | 
+
 
 
 
