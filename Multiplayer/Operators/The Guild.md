@@ -7,66 +7,36 @@
 > 
 >𝐁𝐎7 𝐟𝐢𝐥𝐞 𝐧𝐚𝐦𝐞𝐬 𝐰𝐢𝐥𝐥 𝐚𝐥𝐰𝐚𝐲𝐬 𝐡𝐚𝐯𝐞 𝐚 `sat` 𝐢𝐧 𝐭𝐡𝐞𝐢𝐫 𝐟𝐢𝐥𝐞 𝐧𝐚𝐦𝐞.
 >
-> 𝐅𝐨𝐫 𝐭𝐡𝐞 𝐨𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬, 𝐭𝐡𝐞𝐢𝐫 𝐦𝐨𝐝𝐞𝐥𝐬 𝐚𝐫𝐞 𝐬𝐞𝐩𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 `𝐡𝐞𝐚𝐝` 𝐚𝐧𝐝 `𝐛𝐨𝐝𝐲`
+> 𝐅𝐨𝐫 𝐭𝐡𝐞 𝐨𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬, 𝐭𝐡𝐞𝐢𝐫 𝐦𝐨𝐝𝐞𝐥𝐬 𝐚𝐫𝐞 𝐬𝐞𝐩𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 `𝐡𝐞𝐚𝐝` 𝐚𝐧𝐝 `𝐛𝐨𝐝𝐲` or  `vm` for just for the arms.
 >
 
 # Emma Kagan
 
-| Icon | Body | Head | Arms
-| :--: | :--: | :--: | :--:
+| Icon | Codename | 
+| :--: | :--: |
 | | | | | 
-![Kagan_Default_Skin_BO7](https://github.com/user-attachments/assets/d80a33a2-b08d-418f-a16b-4a3ded35cc51) <br> Kagan | body_c_sat_mex_pl_green_proto | head_c_sat_mex_pl_green_proto | vm_c_sat_mex_pl_green_proto |
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f74218e9-a74d-4775-8914-022b4fc1d624" /> <br> Bygone | green_lofi |
 | | | | | 
-
-# Falkner
-
-| Icon | Body | Head | Arms
-| :--: | :--: | :--: | :--:
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ed80d0a8-9319-4db6-bf7f-b886f2f7aaf7" /> <br> Chiller |  |
 | | | | | 
-![Falkner_BetaLeader_Skin_BO7](https://github.com/user-attachments/assets/b336b468-7d5c-4f73-a52b-47fc7870077f) <br> Beta Leader | body_c_sat_ind_pl_azure_biohazard | head_c_sat_ind_pl_azure_biohazard | vm_c_sat_ind_pl_azure_biohazard |
+ <br>  |  |
 | | | | | 
-![Falkner_Default_Skin_BO7](https://github.com/user-attachments/assets/6435bf7e-4e32-40c4-9acc-b3c8060480c9) <br> Falkner | body_c_sat_ind_pl_azure_proto | head_c_sat_ind_pl_azure_proto | vm_c_sat_ind_pl_azure_proto |
+ <br>  |  |
+![Kagan_Default_Skin_BO7](https://github.com/user-attachments/assets/d80a33a2-b08d-418f-a16b-4a3ded35cc51) <br> Kagan | green_proto |
 | | | | | 
-
-
-
-# Jurado
-
-| Icon | Body | Head | Arms
-| :--: | :--: | :--: | :--:
+ <br>  |  |
 | | | | | 
-|  <br> Daylight Ripper | TBA | TBA | TBA |
+ <br>  |  |
 | | | | | 
-|  <br> Green Fury | TBA | TBA | TBA |
+ <br>  |  |
 | | | | | 
-![Jurado_Default_Skin_BO7](https://github.com/user-attachments/assets/16a01a48-f4c8-429f-83b4-f9dab23c82bb) <br> Jurado | body_c_sat_mex_pl_indigo_proto | head_c_sat_mex_pl_indigo_proto | vm_c_sat_mex_pl_indigo_proto |
+ <br>  |  |
 | | | | | 
-
-# Priya Zaveri
-
-| Icon | Body | Head | Arms
-| :--: | :--: | :--: | :--:
+ <br>  |  |
 | | | | | 
-![Zaveri_Default_Skin_BO7](https://github.com/user-attachments/assets/b4acebde-e308-44bb-ae87-a4eaf2b6e3fd) <br> Zaveri | body_c_sat_ind_pl_violet_proto | head_c_sat_ind_pl_violet_proto | vm_c_sat_ind_pl_violet_proto |
+ <br>  |  |
 | | | | | 
-
-
-# Nikolai Belinski
-
-| Icon | Body | Head | Arms
-| :--: | :--: | :--: | :--:
+ <br>  |  |
 | | | | | 
- <br> Drained | TBA | TBA | TBA |
-| | | | | 
-
-# Edward Richtofen
-
-| Icon | Body | Head | Arms
-| :--: | :--: | :--: | :--:
-| | | | | 
- <br> Drained | TBA | TBA | TBA |
-| | | | | 
-
-
 
 
