@@ -1,6 +1,7 @@
 # JSOC 
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/33867dcb-a7b3-4659-8b42-0d6cde187b92" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/26d812df-8675-4fb2-a4ba-d0e8cc039310" />
+
 
 
 > 
