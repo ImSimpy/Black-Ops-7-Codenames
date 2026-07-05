@@ -178,9 +178,37 @@ https://static.wikia.nocookie.net/callofduty/images/3/32/JSOC_Faction_Icon_BO7.p
 
 
 
-# 
+# Nora Anderson
 | Icon | Name |
 | :--: | :--: | 
+| | | | | 
+<br>  | | 
+| | | | | 
+<br> Air Thrive | orange_proto | 
+| | | | | 
+<br> Alibi Generator | orange_stealth | 
+| | | | | 
+<br> Bail Out | orange_sub | 
+| | | | | 
+<br> Big Iron | orange_outlaw | 
+| | | | | 
+<br> Condor | orange_air | 
+| | | | | 
+<br> Firewall | orange_nm | 
+| | | | | 
+<br> Flight Commander | orange_dronecharmer | 
+| | | | | 
+<br> Nitro | orange_paint | 
+| | | | | 
+<br> No Fear | orange_wc | 
+| | | | | 
+<br> Override | orange_nm_glitch | 
+| | | | | 
+<br>Raver | orange_emea | 
+| | | | | 
+<br> Reboot | orange_countermeasure | 
+| | | | | 
+<br> Reboot BlackCell | orange_countermeasure_bc | 
 | | | | | 
 <br> Default | | 
 | | | | | 
