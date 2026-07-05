@@ -1,7 +1,9 @@
 # JSOC 
 
-https://static.wikia.nocookie.net/callofduty/images/3/32/JSOC_Faction_Icon_BO7.png/revision/latest?cb=20251002232601
-]
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/26d812df-8675-4fb2-a4ba-d0e8cc039310" />
+
+
+
 > 
 > 𝐅𝐨𝐫 𝐭𝐡𝐞 𝐨𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬, 𝐭𝐡𝐞𝐢𝐫 𝐦𝐨𝐝𝐞𝐥𝐬 𝐚𝐫𝐞 𝐬𝐞𝐩𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 `𝐡𝐞𝐚𝐝` 𝐚𝐧𝐝 `𝐛𝐨𝐝𝐲`
 >
