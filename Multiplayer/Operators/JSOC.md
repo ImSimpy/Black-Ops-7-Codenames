@@ -104,39 +104,39 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Bureau Agent | | 
+<br> Bureau Agent | maroon_fbi | 
 | | | | | 
-<br> Data Freeze | | 
+<br> Data Freeze | maroon_nm_glitch | 
 | | | | | 
-<br> Firm Mind | | 
+<br> Firm Mind | maroon_proto | 
 | | | | | 
-<br> Health Inspector | | 
+<br> Health Inspector | maroon_medic_bp | 
 | | | | | 
-<br> Light Armor | | 
+<br> Light Armor | maroon_mask | 
 | | | | | 
-<br> New Orders | | 
+<br> New Orders | maroon_redacted | 
 | | | | | 
-<br> No Fear | | 
+<br> No Fear | maroon_wc | 
 | | | | | 
-<br> Offworlder | | 
+<br> Offworlder | maroon_abstract | 
 | | | | | 
-<br> Opportunist | | 
+<br> Opportunist | maroon_rage | 
 | | | | | 
-<br> Sensei | | 
+<br> Sensei | maroon_uchi | 
 | | | | | 
-<br> Service Record | | 
+<br> Service Record | maroon_army | 
 | | | | | 
-<br> Shot Caller | | 
+<br> Shot Caller | maroon_igl | 
 | | | | | 
-<br> Southpaw | | 
+<br> Southpaw | maroon_bruiser | 
 | | | | | 
-<br> Subnaut | | 
+<br> Subnaut | maroon_sea | 
 | | | | | 
-<br> The Relentless | | 
+<br> The Relentless | maroon_tagger | 
 | | | | | 
-<br> Wayward | | 
+<br> Wayward | maroon_shadow | 
 | | | | | 
-<br> Wayward BlackCell | | 
+<br> Wayward BlackCell | maroon_shadow_bc | 
 | | | | | 
 <br> Default | | 
 | | | | | 
