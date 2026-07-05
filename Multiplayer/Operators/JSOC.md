@@ -104,23 +104,39 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | | 
+<br> Bureau Agent | | 
 | | | | | 
-<br> Default | | 
+<br> Data Freeze | | 
 | | | | | 
-<br> Default | | 
+<br> Firm Mind | | 
 | | | | | 
-<br> Default | | 
+<br> Health Inspector | | 
 | | | | | 
-<br> Default | | 
+<br> Light Armor | | 
 | | | | | 
-<br> Default | | 
+<br> New Orders | | 
 | | | | | 
-<br> Default | | 
+<br> No Fear | | 
 | | | | | 
-<br> Default | | 
+<br> Offworlder | | 
 | | | | | 
-<br> Default | | 
+<br> Opportunist | | 
+| | | | | 
+<br> Sensei | | 
+| | | | | 
+<br> Service Record | | 
+| | | | | 
+<br> Shot Caller | | 
+| | | | | 
+<br> Southpaw | | 
+| | | | | 
+<br> Subnaut | | 
+| | | | | 
+<br> The Relentless | | 
+| | | | | 
+<br> Wayward | | 
+| | | | | 
+<br> Wayward BlackCell | | 
 | | | | | 
 <br> Default | | 
 | | | | | 
