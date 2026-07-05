@@ -143,12 +143,41 @@
 
 
 
-# 
+# Leilani "50/50" Tupuola
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
+<br> Collateral | rose_covert | 
+| | | | | 
+<br> Deranger | rose_mono | 
+| | | | | 
+<br> Intimidator | rose_toa | 
+| | | | | 
+<br> Ironwill | rose_code | 
+| | | | | 
+<br> rose_gym | Jog of War | 
+| | | | | 
+<br> Jolt | rose_guild | 
+| | | | | 
+<br> No Fear | rose_wc | 
+| | | | | 
+<br> Peak Specter | rose_arctic | 
+| | | | | 
+<br> Royal Scion | rose_hive | 
+| | | | | 
+<br> Shatter Shock | rose_nm_glitch | 
+| | | | | 
+<br> Steel Heart | rose_proto | 
+| | | | | 
 <br> Default | | 
 | | | | | 
+
+
+
+
+
+
+
 
 
 
