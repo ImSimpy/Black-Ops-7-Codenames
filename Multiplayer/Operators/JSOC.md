@@ -259,11 +259,43 @@
 | | | | | 
 
 
-# 
+#  Axel Vermaak
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | | 
+<br> Aftershock | peach_nm_glitch | 
+| | | | | 
+<br> Arctic Recon | peach_polar | 
+| | | | | 
+<br> Avian | peach_eagle | 
+| | | | | 
+<br> Devious | peach_xo | 
+| | | | | 
+<br> Devious BlackCell | peach_xo_bc | 
+| | | | | 
+<br> Firewall | peach_nm | 
+| | | | | 
+<br> Honed Vision | peach_proto | 
+| | | | | 
+<br> Indomitus Ferox | peach_roman | 
+| | | | | 
+<br> No Fear | peach_wc | 
+| | | | | 
+<br> Obsidian Specter | peach_stealth | 
+| | | | | 
+<br> Sentry | peach_recon | 
+| | | | | 
+<br> Stargazer | peach_stargazer | 
+| | | | | 
+<br> Steel's Warmth | peach_cryo | 
+| | | | | 
+<br> The Boss | peach_gamble | 
+| | | | | 
+<br> The Cleaner | peach_gamble | 
+| | | | | 
+<br> The Unseen | peach_mud | 
+| | | | | 
+<br> TBA | | 
 | | | | | 
 
 
