@@ -343,21 +343,58 @@
 
 
 
-# 
+# Takeo Masaki
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | | 
+<br> Battering Ram | scarlet_breacher | 
+| | | | | 
+<br> Bionic Honor | scarlet_samurai | 
+| | | | | 
+<br> Consumed Takeo | scarlet_drained | 
+| | | | | 
+<br> Dirge | scarlet_shepard | 
+| | | | | 
+<br> Drifter | scarlet_battle | 
+| | | | | 
+<br> Exosamurai | scarlet_samurai_red | 
+| | | | | 
+<br> Gami | scarlet_fold | 
+| | | | | 
+<br> Obake | scarlet_spirit | 
+| | | | | 
+<br> Purified | scarlet_proto | 
+| | | | | 
+<br> Rustler | scarlet_road | 
+| | | | | 
+<br> Soundwave | scarlet_sight | 
+| | | | | 
+<br> Soundwave BlackCell | scarlet_sight_bc | 
+| | | | | 
+<br> TBA | | 
 | | | | | 
 
 
 
-# 
+
+
+
+# Maya Aguinaldo
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | | 
+<br> Bushwalker | maya_quest | 
 | | | | | 
+<br> Consumed Maya | maya_drained | 
+| | | | | 
+<br> Trophy Collector  | maya_terminus | 
+| | | | | 
+<br> Vengeance | maya_rogue | 
+| | | | | 
+<br> TBA | | 
+| | | | | 
+
+
 
 
 
