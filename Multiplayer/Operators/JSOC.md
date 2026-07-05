@@ -100,9 +100,19 @@
 | | | | | 
 
 
-# 
+# Eric Samuels
 | Icon | Name |
 | :--: | :--: | 
+| | | | | 
+<br> Default | | 
+| | | | | 
+<br> Default | | 
+| | | | | 
+<br> Default | | 
+| | | | | 
+<br> Default | | 
+| | | | | 
+<br> Default | | 
 | | | | | 
 <br> Default | | 
 | | | | | 
