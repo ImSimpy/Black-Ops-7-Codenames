@@ -300,9 +300,43 @@
 
 
 
-# 
+# "Tank" Dempsey
 | Icon | Name |
 | :--: | :--: | 
+| | | | | 
+<br> Artillery | amber_ultimis | 
+| | | | | 
+<br> Bio-Chem | amber_bio | 
+| | | | | 
+<br> Bootcamp | amber_challenge | 
+| | | | | 
+<br> Consumed Dempsey | amber_drained | 
+| | | | | 
+<br> Gorefather | amber_washington | 
+| | | | | 
+<br> Icecap | amber_alpine_bp | 
+| | | | | 
+<br> Icecap BlackCell | amber_alpine_bc | 
+| | | | | 
+<br> No Sweat | amber_chickenlover | 
+| | | | | 
+<br> Mauler | amber_quad | 
+| | | | | 
+<br> Mauler BlackCell | amber_quad_bc | 
+| | | | | 
+<br> Mince | amber_cook | 
+| | | | | 
+<br> Oorah! | amber_proto | 
+| | | | | 
+<br> Ravager's Rise | amber_turned | 
+| | | | | 
+<br> Slacker | amber_slacker | 
+| | | | | 
+<br> Vilemancer | amber_magic | 
+| | | | | 
+<br> Warbound | amber_celtic | 
+| | | | | 
+<br> Zombie Bait | amber_monkeybomb | 
 | | | | | 
 <br> Default | | 
 | | | | | 
