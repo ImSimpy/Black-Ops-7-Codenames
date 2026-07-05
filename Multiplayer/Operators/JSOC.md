@@ -184,8 +184,6 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br>  | | 
-| | | | | 
 <br> Air Thrive | orange_proto | 
 | | | | | 
 <br> Alibi Generator | orange_stealth | 
