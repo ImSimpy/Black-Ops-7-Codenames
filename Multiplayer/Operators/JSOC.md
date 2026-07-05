@@ -50,7 +50,7 @@
 | | | | | 
 <br> Tech Guardian | white_proto | 
 | | | | | 
-<br> Default | | 
+<br> TBA | | 
 | | | | | 
 
 
@@ -101,7 +101,7 @@
 | | | | | 
 <br> Zenith BlackCell | red_urban_bc | 
 | | | | | 
-<br> Default | | 
+<br> TBA | | 
 | | | | | 
 
 
@@ -144,7 +144,7 @@
 | | | | | 
 <br> Wayward BlackCell | maroon_shadow_bc | 
 | | | | | 
-<br> Default | | 
+<br> TBA | | 
 | | | | | 
 
 
@@ -175,7 +175,7 @@
 | | | | | 
 <br> Steel Heart | rose_proto | 
 | | | | | 
-<br> Default | | 
+<br> TBA | | 
 | | | | | 
 
 
@@ -210,18 +210,53 @@
 | | | | | 
 <br> Reboot BlackCell | orange_countermeasure_bc | 
 | | | | | 
-<br> Default | | 
+<br> TBA | | 
 | | | | | 
 
 
 
-# 
+# Wei Lin
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-<br> Default | | 
+<br> Beta Maverick | gold_tactical | 
 | | | | | 
-
+<br> Clout | gold_luxury | 
+| | | | | 
+<br> Data Freeze | gold_nm_glitch | 
+| | | | | 
+<br> Deputized | gold_force | 
+| | | | | 
+<br> Firewall | gold_nm | 
+| | | | | 
+<br> Kickback | gold_redline | 
+| | | | | 
+<br> Lifebringer | gold_blood | 
+| | | | | 
+<br> Martial Master | gold_agile | 
+| | | | | 
+<br> MedTac | gold_milsim | 
+| | | | | 
+<br> No Fear | gold_wc | 
+| | | | | 
+<br> Outrider | gold_equus | 
+| | | | | 
+<br> Porcelain Guardian | gold_droid | 
+| | | | | 
+<br> Rainfall | gold_hooded | 
+| | | | | 
+<br> Serrated | gold_jungle | 
+| | | | | 
+<br> Serrated BlackCell | gold_jungle_bc | 
+| | | | | 
+<br> Studious | gold_proto | 
+| | | | | 
+<br> The Myth |gold_west | 
+| | | | | 
+<br> Underbrush | gold_hunt | 
+| | | | | 
+<br> TBA | | 
+| | | | | 
 
 
 # 
